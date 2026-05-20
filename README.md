@@ -19,7 +19,7 @@ I want to study:
 
 ---
 
-## Projects
+## Portfolio
 1. AI Recommendation System  
 2. Number Guessing Game  
 3. Chatbot  
