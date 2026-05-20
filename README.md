@@ -1,14 +1,14 @@
 # AI Portfolio
 
-## 👤 About Me
+## About Me
 I am a Foundation in Business student with strong interest in mathematics and logical thinking.  
-I achieved A+ in Additional Mathematics, which shows my strong quantitative ability.
+I achieved A+ in Additional Mathematics and also  which shows my strong quantitative ability.
 
 I became interested in Artificial Intelligence after exploring how technology can solve real-world problems using logic and data.
 
 ---
 
-## 🎯 Why Artificial Intelligence
+## Why Artificial Intelligence
 I am interested in AI because it combines mathematics, programming, and problem-solving.
 
 I want to study:
@@ -18,7 +18,7 @@ I want to study:
 
 ---
 
-## 💻 Projects
+## Projects
 1. AI Recommendation System  
 2. Number Guessing Game  
 3. Chatbot  
@@ -27,5 +27,5 @@ I want to study:
 
 ---
 
-## 🔗 Portfolio Link
+## Portfolio Link
 This entire portfolio is contained in this GitHub repository.# Ai-mini-project
