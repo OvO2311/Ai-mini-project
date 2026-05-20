@@ -2,7 +2,8 @@
 
 ## About Me
 I am a Foundation in Business student with strong interest in mathematics and logical thinking.  
-I achieved A+ in Additional Mathematics and also  which shows my strong quantitative ability.
+I achieved A+ in Additional Mathematics and also Mathematics.
+My CGPA now is 3.75.
 
 I became interested in Artificial Intelligence after exploring how technology can solve real-world problems using logic and data.
 
