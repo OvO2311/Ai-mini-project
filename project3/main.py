@@ -5,6 +5,6 @@ if "hello" in user:
 if "how are you" in user:
     print("I am fine, thank you, and you?")
 elif "name" in user:
-    print("I am a simple AI bot")
+    print("I am a simple AI")
 else:
     print("Sorry, I don't understand")
