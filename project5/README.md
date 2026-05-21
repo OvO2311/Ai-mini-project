@@ -24,7 +24,7 @@ Data is stored using SQLite database.
 
 ## How to Run
 `bash
-pip install flask
-python main.py
-Open:
+pip install flask  
+python main.py  
+Open:  
 (https://scaling-space-garbanzo-p7rx9wr69j9v3799q-5000.app.github.dev/)
