@@ -1,4 +1,5 @@
 # AI Portfolio
+This repository is my personal AI and web development portfolio, including multiple beginner-level projects in Python, AI and Flask backend development.
 
 ## About Me
 I am a Foundation in Business student with strong interest in mathematics and logical thinking.  
