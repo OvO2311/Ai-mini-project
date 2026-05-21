@@ -2,8 +2,8 @@
 
 ## About Me
 I am a Foundation in Business student with strong interest in mathematics and logical thinking.  
-I achieved A+ in Additional Mathematics and also Mathematics.  
-My CGPA now is 3.75.
+I achieved A+ in both Additional Mathematics and Mathematics in SPM.  
+My current CGPA is 3.75.
 
 I became interested in Artificial Intelligence after exploring how technology can solve real-world problems using logic and data.
 
@@ -20,6 +20,7 @@ I want to study:
 ---
 
 ## Portfolio
+I have checked all my projects on PyCharm and they are runnable. 
 1. AI Recommendation System  
 2. Number Guessing Game  
 3. Chatbot  
