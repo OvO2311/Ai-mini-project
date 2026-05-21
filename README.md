@@ -9,18 +9,14 @@ I became interested in Artificial Intelligence after exploring how technology ca
 
 ---
 
-## Why Artificial Intelligence
-I am interested in AI because it combines mathematics, programming, and problem-solving.
-
-I want to study:
-- Machine learning
-- Data analysis
-- Intelligent systems
+## Purpose
+-Learn basic AI concepts
+-Practice Python programming
+-Understand simple machine learning logic
 
 ---
-
 ## Portfolio
-I have checked all my projects on PyCharm and they are runnable. 
+I have checked all my projects on PyCharm and codespace in GitHub to comfirm they are runnable. 
 1. AI Recommendation System  
 2. Number Guessing Game  
 3. Chatbot  
@@ -29,5 +25,5 @@ I have checked all my projects on PyCharm and they are runnable.
 
 ---
 
-## Portfolio Link
-This entire portfolio is contained in this GitHub repository.# Ai-mini-project
+## GitHub Repository
+https://github.com/OvO2311/Ai-mini-project
