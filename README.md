@@ -10,9 +10,9 @@ I became interested in Artificial Intelligence after exploring how technology ca
 ---
 
 ## Purpose
--Learn basic AI concepts
--Practice Python programming
--Understand simple machine learning logic
+-Learn basic AI concepts  
+-Practice Python programming  
+-Understand simple machine learning logic  
 
 ---
 ## Portfolio
